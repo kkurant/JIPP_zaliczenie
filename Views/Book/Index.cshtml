@@ -1,0 +1,47 @@
+﻿@model IEnumerable<JIPP_Bookstore.Models.BookModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="Add">Add Book</a>
+</p>
+<table class="table table-striped">
+    <thead style="background-color: #2BAE66;">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Stock)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Stock)
+            </td>
+            <td>
+                <a class="btn btn-outline-primary btn-sm" asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                <a class="btn btn-outline-primary btn-sm" asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                <a class="btn btn-outline-primary btn-sm" asp-action="Remove" asp-route-id="@item.ID">Remove</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
