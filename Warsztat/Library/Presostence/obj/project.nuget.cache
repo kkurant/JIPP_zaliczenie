@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OdRsSkGEMHu0JLleHXNFjLAjoEoKPBUZprK3eCy2XvMenLR++LrqxbJl/JEsP1lou5ktKMZAQf3QwqWrGrxiuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kacper\\Desktop\\JIPP5-KOWALSKI\\Library\\Presostence\\Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
