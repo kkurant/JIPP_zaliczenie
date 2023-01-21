@@ -1,0 +1,13 @@
+C:\Users\Kacper\Desktop\JIPP5-KOWALSKI\Zadania\Zadania\bin\Debug\netcoreapp3.1\Zadania.exe
+C:\Users\Kacper\Desktop\JIPP5-KOWALSKI\Zadania\Zadania\bin\Debug\netcoreapp3.1\Zadania.deps.json
+C:\Users\Kacper\Desktop\JIPP5-KOWALSKI\Zadania\Zadania\bin\Debug\netcoreapp3.1\Zadania.runtimeconfig.json
+C:\Users\Kacper\Desktop\JIPP5-KOWALSKI\Zadania\Zadania\bin\Debug\netcoreapp3.1\Zadania.runtimeconfig.dev.json
+C:\Users\Kacper\Desktop\JIPP5-KOWALSKI\Zadania\Zadania\bin\Debug\netcoreapp3.1\Zadania.dll
+C:\Users\Kacper\Desktop\JIPP5-KOWALSKI\Zadania\Zadania\bin\Debug\netcoreapp3.1\Zadania.pdb
+C:\Users\Kacper\Desktop\JIPP5-KOWALSKI\Zadania\Zadania\obj\Debug\netcoreapp3.1\Zadania.csprojAssemblyReference.cache
+C:\Users\Kacper\Desktop\JIPP5-KOWALSKI\Zadania\Zadania\obj\Debug\netcoreapp3.1\Zadania.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\JIPP5-KOWALSKI\Zadania\Zadania\obj\Debug\netcoreapp3.1\Zadania.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\JIPP5-KOWALSKI\Zadania\Zadania\obj\Debug\netcoreapp3.1\Zadania.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\JIPP5-KOWALSKI\Zadania\Zadania\obj\Debug\netcoreapp3.1\Zadania.dll
+C:\Users\Kacper\Desktop\JIPP5-KOWALSKI\Zadania\Zadania\obj\Debug\netcoreapp3.1\Zadania.pdb
+C:\Users\Kacper\Desktop\JIPP5-KOWALSKI\Zadania\Zadania\obj\Debug\netcoreapp3.1\Zadania.genruntimeconfig.cache
